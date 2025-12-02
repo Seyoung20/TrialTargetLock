@@ -87,73 +87,82 @@ We thank our CS 211 Instructor, Ms. **Christiana Grace Alib**, for her invaluabl
 
 This table uses the **raw image links** and the **Facebook** badge for professional formatting. The names are not links (to prevent the blue color), ensuring a clean, dark-theme appearance.
 
+That's an excellent request. You want the photo itself to be a non-link image, and only the Facebook and Instagram badges underneath it to be clickable.
+
+The reason the photo is currently linked is that it is wrapped in an <a> (anchor) tag that points to the person's Facebook URL.
+
+Here is the corrected code for the table that removes the link from the image, but keeps the crucial blue-line fix on the names:
+
+🖼️ Code with Unlinked Photos
+In this version, I have removed the <a href="...">...</a> tags surrounding the <img ...> for each member's photo. The photo will now display without being a link.
+
+I kept the <span> with the style for the names to ensure the blue lines are removed.
+
+HTML
+
+### ✨ Project Made By: Looter's Members 👥
+
+This table uses the **raw image links** and the **Facebook** badge for professional formatting. The names are not links (to prevent the blue color), ensuring a clean, dark-theme appearance.
+
 <table>
   <tr>
     <td align="center">
-            <a href="[Person 1 Facebook URL]" style="text-decoration: none;">
-        <img src="https://github.com/Seyoung20/TrialTargetLock/raw/main/img/p3.png" width="100px;" alt="Alea, Mariane"/>
-      </a>
+                    <img src="https://github.com/Seyoung20/TrialTargetLock/raw/main/img/p3.png" width="100px;" alt="Alea, Mariane"/>
       <br />
       <span style="color: #ffffff; text-decoration: none;">
         <b>Alea, Mariane</b>
       </span>
       <br />
-      <a href="[Person 1 Facebook URL]" style="text-decoration: none;">
+            <a href="[Person 1 Facebook URL]" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
       </a>
       <br />
-      <a href="[Person 1 Instagram URL]" style="text-decoration: none;">
+            <a href="[Person 1 Instagram URL]" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
       </a>
     </td>
     <td align="center">
-      <a href="https://www.facebook.com/justinjake.baliwag" style="text-decoration: none;">
-        <img src="https://github.com/Seyoung20/TrialTargetLock/raw/main/img/p1.png" width="100px;" alt="Baliwag, Justin Jake"/>
-      </a>
+                    <img src="https://github.com/Seyoung20/TrialTargetLock/raw/main/img/p1.png" width="100px;" alt="Baliwag, Justin Jake"/>
       <br />
       <span style="color: #ffffff; text-decoration: none;">
         <b>Baliwag, Justin Jake</b>
       </span>
       <br />
-      <a href="https://www.facebook.com/justinjake.baliwag" style="text-decoration: none;">
+            <a href="https://www.facebook.com/justinjake.baliwag" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
       </a>
       <br />
-      <a href="https://www.instagram.com/4sdfgh.jj/" style="text-decoration: none;">
+            <a href="https://www.instagram.com/4sdfgh.jj/" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
       </a>
     </td>
     <td align="center">
-      <a href="[Person 3 Facebook URL]" style="text-decoration: none;">
-        <img src="https://github.com/Seyoung20/TrialTargetLock/raw/main/img/p4.png" width="100px;" alt="Ibea, Daniel"/>
-      </a>
+                    <img src="https://github.com/Seyoung20/TrialTargetLock/raw/main/img/p4.png" width="100px;" alt="Ibea, Daniel"/>
       <br />
       <span style="color: #ffffff; text-decoration: none;">
         <b>Ibea, Daniel</b>
       </span>
       <br />
-      <a href="[Person 3 Facebook URL]" style="text-decoration: none;">
+            <a href="[Person 3 Facebook URL]" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
       </a>
       <br />
-      <a href="[Person 3 Instagram URL]" style="text-decoration: none;">
+            <a href="[Person 3 Instagram URL]" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
       </a>
     </td>
     <td align="center">
-      <a href="[Person 4 Facebook URL]" style="text-decoration: none;">
-        <img src="https://github.com/Seyoung20/TrialTargetLock/raw/main/img/p2.png" width="100px;" alt="Pabito, Sam Angelo"/>
-      </a>
+                    <img src="https://github.com/Seyoung20/TrialTargetLock/raw/main/img/p2.png" width="100px;" alt="Pabito, Sam Angelo"/>
       <br />
       <span style="color: #ffffff; text-decoration: none;">
         <b>Pabito, Sam Angelo</b>
       </span>
       <br />
-      <a href="[Person 4 Facebook URL]" style="text-decoration: none;">
+            <a href="[Person 4 Facebook URL]" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
       </a>
       <br />
-      <a href="[Person 4 Instagram URL]" style="text-decoration: none;">
+            <a href="[Person 4 Instagram URL]" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
       </a>
     </td>
