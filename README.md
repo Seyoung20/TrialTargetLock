@@ -124,13 +124,13 @@ This table uses the **raw image links** and the **Facebook** badge for professio
     </td>
     <td align="center">
       <a href="[facebook url for Baliwag, Justin Jake]">
-        <img src="https://via.placeholder.com/100/007bff/ffffff?text=JJB" width="100px;" alt="Baliwag, Justin Jake Profile Image"/>
+        <img src="/img/p2.png" width="100px;" alt="Baliwag, Justin Jake Profile Image"/>
       </a>
       <br />
       <sub><b>Baliwag, Justin Jake</b></sub>
       <br />
       <a href="[GitHub url for Baliwag, Justin Jake]">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="GitHub"/>
       </a>
       <br />
       <a href="[Instagram url for Baliwag, Justin Jake]">
@@ -146,7 +146,7 @@ This table uses the **raw image links** and the **Facebook** badge for professio
       <sub><b>Ibea, Daniel</b></sub>
       <br />
       <a href="[GitHub url for Ibea, Daniel]">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="GitHub"/>
       </a>
       <br />
       <a href="[Instagram url for Ibea, Daniel]">
@@ -162,7 +162,7 @@ This table uses the **raw image links** and the **Facebook** badge for professio
       <sub><b>Pabito, Sam Angelo</b></sub>
       <br />
       <a href="[GitHub url for Pabito, Sam Angelo]">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="GitHub"/>
       </a>
       <br />
       <a href="[Instagram url for Pabito, Sam Angelo]">
@@ -172,3 +172,4 @@ This table uses the **raw image links** and the **Facebook** badge for professio
     </td>
   </tr>
 </table>
+
