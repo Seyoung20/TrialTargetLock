@@ -82,17 +82,17 @@ Looter's Members:
       </a>
     </td>
     <td align="center">
-      <a href="[Person 2 Facebook URL]">
+      <a href="https://www.facebook.com/justinjake.baliwag">
         <img src="https://github.com/Seyoung20/TrialTargetLock/blob/main/img/p1.png" width="100px;" alt="Baliwag, Justin Jake"/>
       </a>
       <br />
       <sub><b>Baliwag, Justin Jake</b></sub>
       <br />
-      <a href="[Person 2 Facebook URL]">
+      <a href="https://www.facebook.com/justinjake.baliwag">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
       </a>
       <br />
-      <a href="[Person 2 Instagram URL]">
+      <a href="https://www.instagram.com/4sdfgh.jj/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
       </a>
     </td>
