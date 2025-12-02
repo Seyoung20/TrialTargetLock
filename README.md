@@ -1,3 +1,4 @@
+
 # 🎯 TrialTargetLock
 **TargetLock** is a **console-based system** that helps users make smarter food choices by aligning what they eat with their personal health goals whether **💪 gaining muscle, 📉 losing weight, 🧘 reducing stress, ✨ improving skin, 😴 enhancing sleep**, and etc.
 
@@ -66,14 +67,14 @@ Looter's Members:
 <table>
   <tr>
     <td align="center">
-      <a href="[Person 1 GitHub URL]">
-        <img src="/img/p1.png" width="100px;" alt="Alea, Mariane"/>
+      <a href="[Person 1 Facebook URL]">
+        <img src="[Replace with actual Image URL for Alea, Mariane]" width="100px;" alt="Alea, Mariane"/>
       </a>
       <br />
       <sub><b>Alea, Mariane</b></sub>
       <br />
-      <a href="[Person 1 GitHub URL]">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+      <a href="[Person 1 Facebook URL]">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
       </a>
       <br />
       <a href="[Person 1 Instagram URL]">
@@ -81,14 +82,14 @@ Looter's Members:
       </a>
     </td>
     <td align="center">
-      <a href="[Person 2 GitHub URL]">
-        <img src="/img/p2.png" width="100px;" alt="Baliwag, Justin Jake"/>
+      <a href="https://www.facebook.com/justinjake.baliwag">
+        <img src="/img/p4.png" width="100px;" alt="Baliwag, Justin Jake"/>
       </a>
       <br />
       <sub><b>Baliwag, Justin Jake</b></sub>
       <br />
-      <a href="[Person 2 GitHub URL]">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+      <a href="[Person 2 Facebook URL]">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
       </a>
       <br />
       <a href="[Person 2 Instagram URL]">
@@ -96,14 +97,14 @@ Looter's Members:
       </a>
     </td>
     <td align="center">
-      <a href="[Person 3 GitHub URL]">
-        <img src="/img/p3.png" width="100px;" alt="Ibea, Daniel"/>
+      <a href="[Person 3 Facebook URL]">
+        <img src="[Replace with actual Image URL for Ibea, Daniel]" width="100px;" alt="Ibea, Daniel"/>
       </a>
       <br />
       <sub><b>Ibea, Daniel</b></sub>
       <br />
-      <a href="[Person 3 GitHub URL]">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+      <a href="[Person 3 Facebook URL]">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
       </a>
       <br />
       <a href="[Person 3 Instagram URL]">
@@ -111,14 +112,14 @@ Looter's Members:
       </a>
     </td>
     <td align="center">
-      <a href="[Person 4 GitHub URL]">
-        <img src="/img/p4.png" width="100px;" alt="Pabito, Sam Angelo"/>
+      <a href="[Person 4 Facebook URL]">
+        <img src="[Replace with actual Image URL for Pabito, Sam Angelo]" width="100px;" alt="Pabito, Sam Angelo"/>
       </a>
       <br />
       <sub><b>Pabito, Sam Angelo</b></sub>
       <br />
-      <a href="[Person 4 GitHub URL]">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+      <a href="[Person 4 Facebook URL]">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
       </a>
       <br />
       <a href="[Person 4 Instagram URL]">
