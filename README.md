@@ -55,3 +55,75 @@ This is a console-based application requiring a Java environment.
 ---
 
 ## **🖥️ SAMPLE OUTPUT** 📊
+
+
+## **🧑🏻‍🤝‍🧑🏻AUTHOR AND ACKNOWLEDGEMENT**💫
+
+✨We would like to express our gratitude to our CS 211 Instructor, Ms. **Christiana Grace Alib**
+
+Looter's Members:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="[Person 1 GitHub URL]">
+        <img src="/img/p1.png" width="100px;" alt="Alea, Mariane"/>
+      </a>
+      <br />
+      <sub><b>Alea, Mariane</b></sub>
+      <br />
+      <a href="[Person 1 GitHub URL]">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+      </a>
+      <br />
+      <a href="[Person 1 Instagram URL]">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="[Person 2 GitHub URL]">
+        <img src="/img/p2.png" width="100px;" alt="Baliwag, Justin Jake"/>
+      </a>
+      <br />
+      <sub><b>Baliwag, Justin Jake</b></sub>
+      <br />
+      <a href="[Person 2 GitHub URL]">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+      </a>
+      <br />
+      <a href="[Person 2 Instagram URL]">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="[Person 3 GitHub URL]">
+        <img src="/img/p3.png" width="100px;" alt="Ibea, Daniel"/>
+      </a>
+      <br />
+      <sub><b>Ibea, Daniel</b></sub>
+      <br />
+      <a href="[Person 3 GitHub URL]">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+      </a>
+      <br />
+      <a href="[Person 3 Instagram URL]">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="[Person 4 GitHub URL]">
+        <img src="/img/p4.png" width="100px;" alt="Pabito, Sam Angelo"/>
+      </a>
+      <br />
+      <sub><b>Pabito, Sam Angelo</b></sub>
+      <br />
+      <a href="[Person 4 GitHub URL]">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+      </a>
+      <br />
+      <a href="[Person 4 Instagram URL]">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
