@@ -105,66 +105,70 @@ HTML
 This table uses the **raw image links** and the **Facebook** badge for professional formatting. The names are not links (to prevent the blue color), ensuring a clean, dark-theme appearance.
 
 <table>
-  <tr>
-    <td align="center">
-                    <img src="https://github.com/Seyoung20.png" width="100px;" alt="Alea, Mariane"/>
-      <br />
-            <span style="color: #ffffff; text-decoration: none;">
-        <b>Alea, Mariane</b>
-      </span>
-      <br />
-            <a href="[Person 1 Facebook URL]" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
-      </a>
-      <br />
-            <a href="[Person 1 Instagram URL]" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-                    <img src="https://github.com/Seyoung20.png" width="100px;" alt="Baliwag, Justin Jake"/>
-      <br />
-            <span style="color: #ffffff; text-decoration: none;">
-        <b>Baliwag, Justin Jake</b>
-      </span>
-      <br />
-            <a href="https://www.facebook.com/justinjake.baliwag" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
-      </a>
-      <br />
-            <a href="https://www.instagram.com/4sdfgh.jj/" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-                    <img src="https://github.com/Seyoung20.png" width="100px;" alt="Ibea, Daniel"/>
-      <br />
-            <span style="color: #ffffff; text-decoration: none;">
-        <b>Ibea, Daniel</b>
-      </span>
-      <br />
-            <a href="[Person 3 Facebook URL]" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
-      </a>
-      <br />
-            <a href="[Person 3 Instagram URL]" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-                    <img src="https://github.com/Seyoung20.png" width="100px;" alt="Pabito, Sam Angelo"/>
-      <br />
-            <span style="color: #ffffff; text-decoration: none;">
-        <b>Pabito, Sam Angelo</b>
-      </span>
-      <br />
-            <a href="[Person 4 Facebook URL]" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
-      </a>
-      <br />
-            <a href="[Person 4 Instagram URL]" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-      </a>
-    </td>
-  </tr>
+  <tr>
+    <td align="center">
+      <a href="[facebook url for Alea, Mariane]">
+        <img src="https://github.com/Seyoung20.png" width="100px;" alt="Alea, Mariane GitHub Profile Image"/>
+      </a>
+      <br />
+      <sub><b>Alea, Mariane</b></sub>
+      <br />
+      <a href="[GitHub url for Alea, Mariane]">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+      </a>
+      <br />
+      <a href="[Instagram url for Alea, Mariane]">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="[facebook url for Baliwag, Justin Jake]">
+        <img src="https://via.placeholder.com/100/007bff/ffffff?text=JJB" width="100px;" alt="Baliwag, Justin Jake Profile Image"/>
+      </a>
+      <br />
+      <sub><b>Baliwag, Justin Jake</b></sub>
+      <br />
+      <a href="[GitHub url for Baliwag, Justin Jake]">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+      </a>
+      <br />
+      <a href="[Instagram url for Baliwag, Justin Jake]">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="[facebook url for Ibea, Daniel]">
+        <img src="https://via.placeholder.com/100/28a745/ffffff?text=DI" width="100px;" alt="Ibea, Daniel Profile Image"/>
+      </a>
+      <br />
+      <sub><b>Ibea, Daniel</b></sub>
+      <br />
+      <a href="[GitHub url for Ibea, Daniel]">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+      </a>
+      <br />
+      <a href="[Instagram url for Ibea, Daniel]">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="[facebook url for Pabito, Sam Angelo]">
+        <img src="https://via.placeholder.com/100/ffc107/000000?text=SAP" width="100px;" alt="Pabito, Sam Angelo Profile Image"/>
+      </a>
+      <br />
+      <sub><b>Pabito, Sam Angelo</b></sub>
+      <br />
+      <a href="[GitHub url for Pabito, Sam Angelo]">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+      </a>
+      <br />
+      <a href="[Instagram url for Pabito, Sam Angelo]">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
+      </a>
+      <br />
+    </td>
+  </tr>
 </table>
