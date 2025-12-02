@@ -114,7 +114,7 @@ This table uses the **raw image links** and the **Facebook** badge for professio
       <sub><b>Alea, Mariane</b></sub>
       <br />
       <a href="[GitHub url for Alea, Mariane]">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"/>
       </a>
       <br />
       <a href="[Instagram url for Alea, Mariane]">
