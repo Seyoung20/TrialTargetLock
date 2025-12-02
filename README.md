@@ -123,7 +123,7 @@ This table uses the **raw image links** and the **Facebook** badge for professio
       <br />
     </td>
     <td align="center">
-      <a href="[facebook url for Baliwag, Justin Jake]">
+      <a href="https://www.facebook.com/justinjake.baliwag">
         <img src="/img/p2.png" width="100px;" alt="Baliwag, Justin Jake Profile Image"/>
       </a>
       <br />
@@ -140,7 +140,7 @@ This table uses the **raw image links** and the **Facebook** badge for professio
     </td>
     <td align="center">
       <a href="[facebook url for Ibea, Daniel]">
-        <img src="https://via.placeholder.com/100/28a745/ffffff?text=DI" width="100px;" alt="Ibea, Daniel Profile Image"/>
+        <img src="/img/p4.png" width="100px;" alt="Ibea, Daniel Profile Image"/>
       </a>
       <br />
       <sub><b>Ibea, Daniel</b></sub>
@@ -156,7 +156,7 @@ This table uses the **raw image links** and the **Facebook** badge for professio
     </td>
     <td align="center">
       <a href="[facebook url for Pabito, Sam Angelo]">
-        <img src="https://via.placeholder.com/100/ffc107/000000?text=SAP" width="100px;" alt="Pabito, Sam Angelo Profile Image"/>
+        <img src="/img/p1.png" width="100px;" alt="Pabito, Sam Angelo Profile Image"/>
       </a>
       <br />
       <sub><b>Pabito, Sam Angelo</b></sub>
@@ -172,5 +172,3 @@ This table uses the **raw image links** and the **Facebook** badge for professio
     </td>
   </tr>
 </table>
-
-
