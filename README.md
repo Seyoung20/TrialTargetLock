@@ -87,6 +87,10 @@ We thank our CS 211 Instructor, Ms. **Christiana Grace Alib**, for her invaluabl
 
 This table uses the **raw image links** and the **Facebook** badge for professional formatting. The names are not links (to prevent the blue color), ensuring a clean, dark-theme appearance.
 
+### ✨ Project Made By: Looter's Members 👥
+
+This table uses the **raw image links** and the **Facebook** badge for professional formatting. The names are not links (to prevent the blue color), ensuring a clean, dark-theme appearance.
+
 <table>
   <tr>
     <td align="center">
@@ -94,7 +98,9 @@ This table uses the **raw image links** and the **Facebook** badge for professio
         <img src="https://github.com/Seyoung20/TrialTargetLock/raw/main/img/p3.png" width="100px;" alt="Alea, Mariane"/>
       </a>
       <br />
-      <sub><b>Alea, Mariane</b></sub>
+      <span style="color: #ffffff; text-decoration: none;">
+        <sub><b>Alea, Mariane</b></sub>
+      </span>
       <br />
       <a href="[Person 1 Facebook URL]">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
@@ -109,7 +115,9 @@ This table uses the **raw image links** and the **Facebook** badge for professio
         <img src="https://github.com/Seyoung20/TrialTargetLock/raw/main/img/p1.png" width="100px;" alt="Baliwag, Justin Jake"/>
       </a>
       <br />
-      <sub><b>Baliwag, Justin Jake</b></sub>
+      <span style="color: #ffffff; text-decoration: none;">
+        <sub><b>Baliwag, Justin Jake</b></sub>
+      </span>
       <br />
       <a href="https://www.facebook.com/justinjake.baliwag">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
@@ -124,7 +132,9 @@ This table uses the **raw image links** and the **Facebook** badge for professio
         <img src="https://github.com/Seyoung20/TrialTargetLock/raw/main/img/p4.png" width="100px;" alt="Ibea, Daniel"/>
       </a>
       <br />
-      <sub><b>Ibea, Daniel</b></sub>
+      <span style="color: #ffffff; text-decoration: none;">
+        <sub><b>Ibea, Daniel</b></sub>
+      </span>
       <br />
       <a href="[Person 3 Facebook URL]">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
@@ -139,7 +149,9 @@ This table uses the **raw image links** and the **Facebook** badge for professio
         <img src="https://github.com/Seyoung20/TrialTargetLock/raw/main/img/p2.png" width="100px;" alt="Pabito, Sam Angelo"/>
       </a>
       <br />
-      <sub><b>Pabito, Sam Angelo</b></sub>
+      <span style="color: #ffffff; text-decoration: none;">
+        <sub><b>Pabito, Sam Angelo</b></sub>
+      </span>
       <br />
       <a href="[Person 4 Facebook URL]">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
