@@ -13,7 +13,7 @@
 <br />
 
 # 🎯 TargetLock
-**TargetLock** is designed to support a healthier lifestyle by empowering users to make more mindful and goal-aligned food decisions. Inspired by the principles of **🍏Sustainable Development Goal 3🍏**, the system promotes long-term wellness, disease prevention, and healthier daily habits through informed nutrition awareness. Whether your focus is overall fitness, improved mood, better sleep, glowing skin, stress reduction, or simply building a sustainable healthy routine, TargetLock encourages consistency and positive choices that contribute to your personal well-being.
+**TargetLock** is designed to support a healthier lifestyle by empowering users to make more mindful and goal-aligned food decisions. Inspired by the principles of **`🍏Sustainable Development Goal 3🍏`**, the system promotes long-term wellness, disease prevention, and healthier daily habits through informed nutrition awareness. Whether your focus is overall fitness, improved mood, better sleep, glowing skin, stress reduction, or simply building a sustainable healthy routine, TargetLock encourages consistency and positive choices that contribute to your personal well-being.
 
 ---
 
