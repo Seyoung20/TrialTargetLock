@@ -72,14 +72,14 @@ This is a console-based application requiring a Java environment.
 ## **🖥️ SAMPLE OUTPUT** 📊
 <details>
   <summary>Lose Weight</summary>
-<img src="img/1-1.png" alt="Char Creation" width="50%">
+<img src="img/1-1.png" alt="Char Creation" width="50%"><br>
 <img src="img/1-2.png" alt="Char Creation" width="50%">
 <img src="img/1-3.png" alt="Char Creation" width="50%">
 </details>
 
 <details>
   <summary>Gain Muscle</summary>
-<img src="img/2-1.png" alt="Stats Up" width="50%">
+<img src="img/2-1.png" alt="Stats Up" width="50%" style="margin-bottom: 10px;>
 <img src="img/2-2.png" alt="Stats Up" width="50%">
 <img src="img/2-3.png" alt="Stats Up" width="50%">
 </details>
