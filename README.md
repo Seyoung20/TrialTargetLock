@@ -13,7 +13,8 @@
 <br />
 
 # 🎯 TrialTargetLock
-**TargetLock** is a **console-based system** that helps users make smarter food choices by aligning what they eat with their personal health goals whether **💪 gaining muscle, 📉 losing weight, 🧘 reducing stress, ✨ improving skin, 😴 enhancing sleep**, and etc.
+TargetLock is a console-based system that helps users make smarter food choices by aligning what they eat with their personal health goals whether gaining muscle, losing weight, reducing stress, improving skin, enhancing sleep, and etc. The system first asks the user to select a target goal and after choosing a food item, TargetLock analyzes its nutritional value, safety level, and overall health impact. It then checks if the food supports or goes against the user’s goal, giving clear and personalized recommendations. TargetLock also includes a streak tracker that records each logged food and provides encouraging messages to motivate consistency and healthy habits, supporting SDG 3 – Good Health and Well-Being.
+
 
 ---
 
