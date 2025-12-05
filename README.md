@@ -22,10 +22,10 @@
 TargetLock is designed to transform the process of healthy eating into a guided, data-driven experience. The system's core function is to connect a user's ** target goal** directly with the nutritional impact of their food choices.
 
 ### **How it Works:**
-1.  **Goal Selection:** The user first selects a specific health objective (**Muscle Gain, Weight Loss**, etc.).
-2.  **Food Logging:** After choosing a food item (either from a pre-defined list or using the **Custom Food** option), TargetLock analyzes its **nutritional value, safety level**, and overall health impact.
-3.  **Personalized Feedback:** The system then provides clear, personalized recommendations, informing the user whether the food **supports or goes against** their selected goal.
-4.  **Motivation:** TargetLock includes a **streak tracker** that records each logged food, providing **encouraging messages** to motivate consistency and support long-term healthy habits, aligning with **SDG 3 – Good Health and Well-Being**.
+1.  **Goal Selection:** The user first selects a specific health objective (**💪 Muscle Gain, 📉 Weight Loss**, etc.).
+2.  **Food Logging:** After choosing a food item (either from a pre-defined list or using the **Custom Food** option), TargetLock analyzes its **🧪 nutritional value, 🛡️ safety level**, and overall health impact.
+3.  **Personalized Feedback:** The system then provides clear, personalized recommendations, informing the user whether the food **✅ supports or ❌ goes against** their selected goal.
+4.  **Motivation:** TargetLock includes a **🔥 streak tracker** that records each logged food, providing **📢 encouraging messages** to motivate consistency and support long-term healthy habits, aligning with **🌏 SDG 3 – Good Health and Well-Being**.
 
 ---
 
@@ -47,13 +47,13 @@ The application of **Object-Oriented Programming (OOP)** principles ensures a ro
 
 The system is designed with several key classes to manage functionality and data flow.
 
-* **`TargetLockApp` (Main Class):** **Orchestrates** the main menu, user interaction, and overall program execution.
-* **`UserProfile`:** **Stores** the user's chosen goal and manages the **streak tracker**.
-* **`HealthGoal` (Abstract Base Class):** **Defines** the common interface for all health objectives.
+* **`TargetLockApp` (Main Class):** **▶️ Orchestrates** the main menu, user interaction, and overall program execution.
+* **`UserProfile`:** **👤 Stores** the user's chosen goal and manages the **🔥 streak tracker**.
+* **`HealthGoal` (Abstract Base Class):** **📝 Defines** the common interface for all health objectives.
     * *Subclasses:* `MuscleGainGoal`, `WeightLossGoal`, etc.
-* **`FoodItem`:** **Represents** a piece of food with all nutritional attributes. Includes the **Custom Food** option.
-* **`Analyzer`:** **Contains** the core logic for processing a food item against the user's goal, calculating the health impact, and generating **personalized recommendations**.
-* **`StreakTracker`:** **Manages** the streak count and provides motivational messages for consistency.
+* * **`FoodItem`:** **🍎 Represents** a piece of food with all nutritional attributes. Includes the **Custom Food** option.
+* **`Analyzer`:** **🧠 Contains** the core logic for processing a food item against the user's goal, calculating the health impact, and generating **✅ personalized recommendations**.
+* **`StreakTracker`:** **📈 Manages** the streak count and provides motivational messages for consistency.
 
 ---
 
@@ -61,11 +61,11 @@ The system is designed with several key classes to manage functionality and data
 
 This is a console-based application requiring a Java environment.
 
-1.  **Select Goal:** First, the user selects their **desired health goal**.
+1.  **Select Goal:** First, the user selects their **🎯 desired health goal**.
 2.  **Select Food:** After choosing a goal, the system displays food categories, and the user selects a specific item.
 3.  **Custom Food Option:** If the food is not listed, they can use the **Custom Food** option, manually entering the food name and its nutritional values.
-4.  **Analysis and Recommendations:** Once submitted, the system **analyzes** the input and informs the user about the food’s overall healthiness, its safety level, and personalized recommendations on whether it **supports or goes against** their selected goal. It also suggests **healthier options**.
-5.  **Motivation:** The **streak tracker** is included to motivate consistency, encouraging users to regularly check their food choices and maintain a long-term healthy lifestyle.
+4.  **Analysis and Recommendations:** Once submitted, the system **🔬 analyzes** the input and informs the user about the food’s overall healthiness, its safety level, and personalized recommendations on whether it **✅ supports or ❌ goes against** their selected goal. It also suggests **🥕 healthier options**.
+5.  **Motivation:** The **🔥 streak tracker** is included to motivate consistency, encouraging users to regularly check their food choices and maintain a long-term healthy lifestyle.
 
 ---
 
@@ -80,7 +80,7 @@ This is a console-based application requiring a Java environment.
 
 **Gratitude to Our Instructor**
 
-We would like to express our sincere gratitude to our CS 211 instructor, **Ms. Christiana Grace Alib**, for her invaluable mentorship and guidance. Her expertise in Object-Oriented Programming principles was crucial to our effective application of these concepts, leading to the successful development of our system, <span style="color:green">TargetLock</span>.
+We would like to express our sincere gratitude to our CS 211 instructor, **💗Ms. Christiana Grace Alib**, for her invaluable mentorship and guidance. Her expertise in Object-Oriented Programming principles was crucial to our effective application of these concepts, leading to the successful development of our system, **TargetLock**.
 
 ---
 
@@ -89,17 +89,17 @@ We would like to express our sincere gratitude to our CS 211 instructor, **Ms. C
 <table>
   <tr>
     <td align="center">
-      <a href="[facebook url for Alea, Mariane]">
+      <a href="https://www.facebook.com/atarahjrzi">
         <img src="/img/mayan" width="100px;" alt="Alea, Mariane GitHub Profile Image"/>
       </a>
       <br />
       <sub><b>Alea, Mariane</b></sub>
       <br />
-      <a href="[GitHub url for Alea, Mariane]">
+      <a href="https://www.facebook.com/atarahjrzi">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"/>
       </a>
       <br />
-      <a href="[Instagram url for Alea, Mariane]">
+      <a href="https://www.instagram.com/atarahjrzi/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
       </a>
       <br />
@@ -121,33 +121,33 @@ We would like to express our sincere gratitude to our CS 211 instructor, **Ms. C
       <br />
     </td>
     <td align="center">
-      <a href="[facebook url for Ibea, Daniel]">
+      <a href="https://www.facebook.com/danielibea.ilagan">
         <img src="/img/daniel" width="100px;" alt="Ibea, Daniel Profile Image"/>
       </a>
       <br />
       <sub><b>Ibea, Daniel</b></sub>
       <br />
-      <a href="[GitHub url for Ibea, Daniel]">
+      <a href="https://www.facebook.com/danielibea.ilagan">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="GitHub"/>
       </a>
       <br />
-      <a href="[Instagram url for Ibea, Daniel]">
+      <a href="https://www.instagram.com/danyll_p/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
       </a>
       <br />
     </td>
     <td align="center">
-      <a href="[facebook url for Pabito, Sam Angelo]">
+      <a href="https://www.facebook.com/sam.pabito.1">
         <img src="/img/sam.png" width="100px;" alt="Pabito, Sam Angelo Profile Image"/>
       </a>
       <br />
       <sub><b>Pabito, Sam Angelo</b></sub>
       <br />
-      <a href="[GitHub url for Pabito, Sam Angelo]">
+      <a href="https://www.facebook.com/sam.pabito.1">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="GitHub"/>
       </a>
       <br />
-      <a href="[Instagram url for Pabito, Sam Angelo]">
+      <a href="https://www.instagram.com/sampabitoo/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
       </a>
       <br />
