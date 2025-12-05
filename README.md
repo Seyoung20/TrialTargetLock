@@ -97,10 +97,6 @@ This is a console-based application requiring a Java environment.
   </select>
 </div>
 
-
-*** TARGET LOCK: Personalized Health Tracker ***
-
-
 ---
 
 ## **🧑🏻‍🤝‍🧑🏻AUTHOR AND ACKNOWLEDGEMENT** 
