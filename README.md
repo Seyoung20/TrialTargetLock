@@ -19,7 +19,7 @@
 
 ## **📝 DESCRIPTION/OVERVIEW**
 
-TargetLock is designed to transform the process of healthy eating into a guided, data-driven experience. The system's core function is to connect a user's ** target goal** directly with the nutritional impact of their food choices.
+TargetLock is designed to transform the process of healthy eating into a guided, data-driven experience. The system's core function is to connect a user's **target goal** directly with the nutritional impact of their food choices.
 
 ### **How it Works:**
 1.  **Goal Selection:** The user first selects a specific health objective (**💪 Muscle Gain, 📉 Weight Loss**, etc.).
