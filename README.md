@@ -115,7 +115,7 @@ We would like to express our sincere gratitude to our CS 211 instructor, **💗`
         <img src="/img/mayan.png" width="100px;" alt="Alea, Mariane GitHub Profile Image"/>
       </a>
       <br />
-      <sub><b>Alea, Mariane</b></sub>
+      <sub><b>Alea, Mariane M.</b></sub>
       <br />
       <a href="https://www.facebook.com/atarahjrzi">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"/>
@@ -131,7 +131,7 @@ We would like to express our sincere gratitude to our CS 211 instructor, **💗`
         <img src="/img/justin.png" width="100px;" alt="Baliwag, Justin Jake Profile Image"/>
       </a>
       <br />
-      <sub><b>Baliwag, Justin Jake</b></sub>
+      <sub><b>Baliwag, Justin Jake R.</b></sub>
       <br />
       <a href="https://www.facebook.com/justinjake.baliwag">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="GitHub"/>
@@ -147,7 +147,7 @@ We would like to express our sincere gratitude to our CS 211 instructor, **💗`
         <img src="/img/daniel.png" width="100px;" alt="Ibea, Daniel Profile Image"/>
       </a>
       <br />
-      <sub><b>Ibea, Daniel</b></sub>
+      <sub><b>Ibea, Daniel I.</b></sub>
       <br />
       <a href="https://www.facebook.com/danielibea.ilagan">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="GitHub"/>
@@ -163,7 +163,7 @@ We would like to express our sincere gratitude to our CS 211 instructor, **💗`
         <img src="/img/sam.png" width="100px;" alt="Pabito, Sam Angelo Profile Image"/>
       </a>
       <br />
-      <sub><b>Pabito, Sam Angelo</b></sub>
+      <sub><b>Pabito, Sam Angelo A.</b></sub>
       <br />
       <a href="https://www.facebook.com/sam.pabito.1">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="GitHub"/>
