@@ -80,8 +80,8 @@ This is a console-based application requiring a Java environment.
 
 ### **🙏 Gratitude to Our Instructor**
 
-We would like to express our sincere gratitude to our CS 211 instructor, **Ms. Christiana Grace Alib**, for her invaluable mentorship and guidance. Her expertise in Object-Oriented Programming principles was crucial to our effective application of these concepts, leading to the successful development of our system, **TargetLock**.
-
+-We would like to express our sincere gratitude to our CS 211 instructor, **Ms. Christiana Grace Alib**, for her invaluable mentorship and guidance. Her expertise in Object-Oriented Programming principles was crucial to our effective application of these concepts, leading to the successful development of our system, **TargetLock**.
+-
 ---
 
 ### ✨ Project Made By: Looter's Members 👥
