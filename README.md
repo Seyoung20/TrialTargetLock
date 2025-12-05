@@ -13,7 +13,7 @@
 <br />
 
 # 🎯 TargetLock
-**TargetLock** is a console-based system that helps users make smarter food choices by aligning what they eat with their personal health goals whether gaining muscle, losing weight, reducing stress, improving skin, enhancing sleep, and etc. The system first asks the user to select a target goal and after choosing a food item, TargetLock analyzes its nutritional value, safety level, and overall health impact. It then checks if the food supports or goes against the user’s goal, giving clear and personalized recommendations. TargetLock also includes a streak tracker that records each logged food and provides encouraging messages to motivate consistency and healthy habits, supporting **SDG 3 – Good Health and Well-Being**.
+**TargetLock** is designed to support a healthier lifestyle by empowering users to make more mindful and goal-aligned food decisions. Inspired by the principles of **Sustainable Development Goal 3**, the system promotes long-term wellness, disease prevention, and healthier daily habits through informed nutrition awareness. Whether your focus is overall fitness, improved mood, better sleep, glowing skin, stress reduction, or simply building a sustainable healthy routine, TargetLock encourages consistency and positive choices that contribute to your personal well-being.
 
 ---
 
@@ -47,12 +47,12 @@ The application of **Object-Oriented Programming (OOP)** principles ensures a ro
 
 The system is designed with several key classes to manage functionality and data flow.
 
-* **`TargetLockApp` (Main Class):** ** Orchestrates** the main menu, user interaction, and overall program execution.
-* **`UserProfile`:** **👤 Stores** the user's chosen goal and manages the ** streak tracker**.
-* **`HealthGoal` (Abstract Base Class):** ** Defines** the common interface for all health objectives.
+* **`TargetLockApp` (Main Class):** **Orchestrates** the main menu, user interaction, and overall program execution.
+* **`UserProfile`:** **Stores** the user's chosen goal and manages the **streak tracker**.
+* **`HealthGoal` (Abstract Base Class):** **Defines** the common interface for all health objectives.
     * *Subclasses:* `MuscleGainGoal`, `WeightLossGoal`, etc.
-* **`FoodItem`:** ** Represents** a piece of food with all nutritional attributes. Includes the **Custom Food** option.
-* **`Analyzer`:** ** Contains** the core logic for processing a food item against the user's goal, calculating the health impact, and generating ** personalized recommendations**.
+* **`FoodItem`:** **Represents** a piece of food with all nutritional attributes. Includes the **Custom Food** option.
+* **`Analyzer`:** **Contains** the core logic for processing a food item against the user's goal, calculating the health impact, and generating **personalized recommendations**.
 * **`StreakTracker`:** **Manages** the streak count and provides motivational messages for consistency.
 
 ---
