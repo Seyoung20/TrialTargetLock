@@ -17,28 +17,29 @@
 
 ---
 
-## **📝 DESCRIPTION/OVERVIEW** 🍏
+## **📝 DESCRIPTION/OVERVIEW**
 
-TargetLock is designed to transform the process of healthy eating into a guided, data-driven experience. The system's core function is to connect a user's **🎯 target goal** directly with the nutritional impact of their food choices.
+TargetLock is designed to transform the process of healthy eating into a guided, data-driven experience. The system's core function is to connect a user's ** target goal** directly with the nutritional impact of their food choices.
 
 ### **How it Works:**
-1.  **Goal Selection:** The user first selects a specific health objective (**💪 Muscle Gain, 📉 Weight Loss**, etc.).
-2.  **Food Logging:** After choosing a food item (either from a pre-defined list or using the **Custom Food** option), TargetLock analyzes its **🧪 nutritional value, 🛡️ safety level**, and overall health impact.
-3.  **Personalized Feedback:** The system then provides clear, personalized recommendations, informing the user whether the food **✅ supports or ❌ goes against** their selected goal.
-4.  **Motivation:** TargetLock includes a **🔥 streak tracker** that records each logged food, providing **📢 encouraging messages** to motivate consistency and support long-term healthy habits, aligning with **🌏 SDG 3 – Good Health and Well-Being**.
+1.  **Goal Selection:** The user first selects a specific health objective (**Muscle Gain, Weight Loss**, etc.).
+2.  **Food Logging:** After choosing a food item (either from a pre-defined list or using the **Custom Food** option), TargetLock analyzes its **nutritional value, safety level**, and overall health impact.
+3.  **Personalized Feedback:** The system then provides clear, personalized recommendations, informing the user whether the food **supports or goes against** their selected goal.
+4.  **Motivation:** TargetLock includes a **streak tracker** that records each logged food, providing **encouraging messages** to motivate consistency and support long-term healthy habits, aligning with **SDG 3 – Good Health and Well-Being**.
 
 ---
 
-## **💻 OOP CONCEPTS APPLIED** 💡
+## **💻 OOP CONCEPTS APPLIED**
 
 The application of **Object-Oriented Programming (OOP)** principles ensures a robust, maintainable, and scalable system structure.
 
-| OOP Concept | Icon | Description & Application in TargetLock |
-| :--- | :--- | :--- |
-| **Encapsulation** | 🛡️ | Achieved by bundling data (food name, nutritional values, health goal) and the methods that operate on that data within classes like `FoodItem` and `UserProfile`. **Private** attributes protect internal data, ensuring it is only modified via controlled, **public** methods (getters/setters). |
-| **Inheritance** | 👨🏻‍👩🏻‍👧🏻‍👦🏻 | Used to model specialized behaviors from a general type. A base class, **`HealthGoal`**, is extended by subclasses like **`WeightLossGoal`** or **`MuscleGainGoal`**. These subclasses share common properties but implement specific, distinct goal-checking logic. |
-| **Abstraction** | 🪄 | Focuses on showing essential features while hiding complex implementation details. The **`Analyzer`** class exposes a simple **`getRecommendation()`** method, abstracting away the complex nutritional calculations and safety checks performed internally. |
-| **Polymorphism** | 🎭 | Allows a single interface to be used for different implementations. The core **`Analyzer`** interacts with all goal types through a single **`HealthGoal`** reference. When the **`analyze(food)`** method is called, the correct, goal-specific logic is executed. |
+| OOP Concept    | Description & Application in TargetLock                                                                                                                                                          |
+|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Encapsulation** | Achieved by bundling data (food name, nutritional values, health goal) and the methods that operate on that data within classes like `FoodItem` and `UserProfile`. **Private** attributes protect internal data, ensuring it is only modified via controlled, **public** methods (getters/setters). |
+| **Inheritance**  | Used to model specialized behaviors from a general type. A base class, **`HealthGoal`**, is extended by subclasses like **`WeightLossGoal`** or **`MuscleGainGoal`**. These subclasses share common properties but implement specific, distinct goal-checking logic. |
+| **Abstraction**  | Focuses on showing essential features while hiding complex implementation details. The **`Analyzer`** class exposes a simple **`getRecommendation()`** method, abstracting away the complex nutritional calculations and safety checks performed internally. |
+| **Polymorphism** | Allows a single interface to be used for different implementations. The core **`Analyzer`** interacts with all goal types through a single **`HealthGoal`** reference. When the **`analyze(food)`** method is called, the correct, goal-specific logic is executed. |
+
 
 ---
 
